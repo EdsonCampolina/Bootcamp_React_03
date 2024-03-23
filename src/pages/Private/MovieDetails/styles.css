@@ -1,0 +1,30 @@
+.details-container {
+  margin: 50px 50px 50px 50px;
+}
+
+.details-container h1 {
+  font-size: 35px;
+  line-height: 75px;
+  color:#FFF;
+  margin-top: 50px;
+}
+
+
+.details-container h2 {
+  font-size: 25px;
+  line-height: 30px;
+  color:#FFF;
+  margin-left: 10px;
+}
+
+
+.details-container p {
+  font-style: normal;
+  font-weight: normal;
+  font-size: 25px;
+  line-height: 33px;
+  width: 521px;
+  color: #F2F2F2;
+  margin: 20px 0 20px 0;
+}
+

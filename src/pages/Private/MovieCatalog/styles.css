@@ -1,0 +1,22 @@
+.catalog-container {
+  margin: 50px 50px 50px 50px;
+}
+
+.catalog-container h1 {
+  font-size: 55px;
+  line-height: 75px;
+  letter-spacing: -0.015em;
+  color:#FFF;
+  margin-top: 76px;
+}
+
+.catalog-container p {
+  font-style: normal;
+  font-weight: normal;
+  font-size: 30px;
+  line-height: 33px;
+  width: 521px;
+  color: #F2F2F2;
+  margin: 50px 0 50px 0;
+}
+

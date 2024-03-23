@@ -1,0 +1,16 @@
+.review-container {
+  display: flex;  
+  justify-content: center;
+  background-size: 100%;
+  flex-direction: row;
+  flex-wrap: wrap;
+  vertical-align: middle;
+  margin-top: 40px; 
+  border-radius: 20px;
+  margin-left: 110px ;
+}
+
+
+
+
+
